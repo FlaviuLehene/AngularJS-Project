@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is my first project with AngularJS and NodeJS\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlaviuLehene/AngularJS-Project.git"
+  },
+  "author": "Flaviu Lehene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlaviuLehene/AngularJS-Project/issues"
+  },
+  "homepage": "https://github.com/FlaviuLehene/AngularJS-Project#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
